@@ -1,5 +1,8 @@
 # impact-cratering
 
+## Data used
+
+see [data](./data/README.md)
 
 ## Resources
 
