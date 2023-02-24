@@ -9,7 +9,14 @@
 * iSALE - https://github.com/isale-code
   * https://isale-code.github.io
   * https://isale-code.github.io/terms-of-use.html
-  
+
+### Scholarly resources:
+* Planetary crater consortium - https://www.lpi.usra.edu/pcc/
+
+### Courses and tutorials
+* 2023 GMAP Winter School - 
+* 2022 GMAP Winter School 
+  * G. Michael: Open Source tools for crater counting (video) - https://youtu.be/yg_XEa8lks0 - 
   
 ## Slidesets
 
