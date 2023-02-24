@@ -8,6 +8,8 @@ This reference list is not exhaustive, it contains as much as possible OA (revie
 
 French, B. M. (1998). Traces of catastrophe: A handbook of shock-metamorphic effects in terrestrial meteorite impact structures (No. LPI-Contrib-954). https://www.lpi.usra.edu/publications/books/CB-954/CB-954.intro.html
 
+Osinski, G. R., & Pierazzo, E. (2013). Impact cratering: Processes and products, DOI:10.1002/9781118447307 - https://onlinelibrary.wiley.com/doi/book/10.1002/9781118447307
+
 ### Review articles
 
 ## Terrestrial impact cratering
