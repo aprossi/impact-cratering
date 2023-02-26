@@ -4,6 +4,7 @@
 
 ### Planetary chronology 
 * Cratersats (and ref. therein) - https://github.com/ggmichael/craterstats
+* Crater size-frequency distribution analysis - https://github.com/astrostu/SizeFrequencyDistributions
 
 ### Numerical modeling
 * iSALE - https://github.com/isale-code
