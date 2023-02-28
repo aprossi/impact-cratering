@@ -6,11 +6,16 @@ For general information on planetary Remote Sensing data, suitable also for crat
 
 * https://indico.obspm.fr/event/1713/contributions/914/
 
-For cartographic aspects, please refere to:
+For cartographic aspects, please refer to:
 
 * https://github.com/europlanet-gmap/winter-school-2023/tree/main/crs
   * https://github.com/europlanet-gmap/winter-school-2023/blob/main/crs/notebooks/map-projections.ipynb
-  * https://indico.obspm.fr/event/1713/contributions/915/
+  * https://indico.obspm.fr/event/1713/contributions/915/'
+
+For planetary crater surface geology please refer to:
+
+* https://www.planetarymapping.eu in particular, moon mapping introductions and tutorials (2021, 2022, ,2023)
+
   
 ## Support notebooks
 
