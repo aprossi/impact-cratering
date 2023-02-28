@@ -1,5 +1,7 @@
 # impact-cratering
 
+Materials put together to support bits of the Europlanet workshop "Rocks from Space and Planetary Defence" - https://eventi.unibo.it/epn24-moroccoworkshop/
+
 ## Support notebooks
 
 * [Planetary craters](./notebooks/planetary_craters.ipynb)
