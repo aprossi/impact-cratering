@@ -3,7 +3,7 @@
 ## Support notebooks
 
 * [Planetary craters](./notebooks/planetary_craters.ipynb)
-* Crater databases
+* [Crater databases](./notebooks/crater_databases.ipynb)
 * Planetary chronology
 
 
