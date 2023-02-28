@@ -2,7 +2,7 @@
 
 ## Support notebooks
 
-* Planetary craters
+* [Planetary craters](data/planetary_craters.ipynb)
 * Crater databases
 * Planetary chronology
 
