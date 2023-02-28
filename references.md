@@ -29,6 +29,7 @@ Grieve, R. A. (1990). Impact cratering on the Earth. Scientific American, 262(4)
 ## Mercury 
 
 ## Venus
+Riedel, C., Michael, G. G., Orgel, C., Baum, C., van der Bogert, C. H., & Hiesinger, H. (2021). Studying the global spatial randomness of impact craters on Mercury, Venus, and the Moon with geodesic neighborhood relationships. Journal of Geophysical Research: Planets, 126(3), e2020JE006693. - https://doi.org/10.1029/2020JE006693 - https://data.mendeley.com/datasets/mn2b542k5r/2
 
 ## Mars
 
