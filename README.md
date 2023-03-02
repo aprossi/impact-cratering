@@ -1,8 +1,8 @@
 # impact-cratering
 
-Materials put together to support bits of the Europlanet workshop "Rocks from Space and Planetary Defence" - https://eventi.unibo.it/epn24-moroccoworkshop/
+Materials put together to support and complement the talk bits at the Europlanet workshop "Rocks from Space and Planetary Defence" - https://eventi.unibo.it/epn24-moroccoworkshop/
 
-The repo is designed to point readers/participants to the workshop to data-focused recources related to planetary (and somewhat terrestrial) impact cratering. There is no aim of completeness. 
+The repo is designed to point readers/participants to the workshop to - mostly data-centric - recources related to planetary (and somewhat terrestrial) impact cratering. There is no aim of completeness. Some general references are included in [references.md](references.md). Specific references relevant to individual notebooks are listed at the bottom of each, thus, they might be repeated throughout the repo. 
 
 If you discover any mistake, or inaccuracy, please reach out, or open an issue.
 
