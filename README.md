@@ -2,6 +2,10 @@
 
 Materials put together to support bits of the Europlanet workshop "Rocks from Space and Planetary Defence" - https://eventi.unibo.it/epn24-moroccoworkshop/
 
+The repo is designed to point readers/participants to the workshop to data-focused recources related to planetary (and somewhat terrestrial) impact cratering. There is no aim of completeness. 
+
+If you discover any mistake, or inaccuracy, please reach out, or open an issue.
+
 For general information on planetary Remote Sensing data, suitable also for crater studies please refer to:
 
 * https://indico.obspm.fr/event/1713/contributions/914/
