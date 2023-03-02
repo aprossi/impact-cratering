@@ -2,7 +2,7 @@
 
 Materials put together to support and complement the talk bits at the Europlanet workshop "Rocks from Space and Planetary Defence" - https://eventi.unibo.it/epn24-moroccoworkshop/
 
-The repo is designed to point readers/participants to the workshop to - mostly data-centric - recources related to planetary (and somewhat terrestrial) impact cratering. There is no aim of completeness. Some general references are included in [references.md](references.md). Specific references relevant to individual notebooks are listed at the bottom of each, thus, they might be repeated throughout the repo. 
+The repo is designed to point readers/participants to the workshop to - mostly data-centric - recources related to planetary (and somewhat terrestrial) impact cratering. There is no aim of completeness. Some general references are included in [references.md](references.md). Specific references relevant to individual notebooks are listed at the bottom of each, thus, they might be repeated throughout the repo. In general each notebook could be used individually, too, although it would be better to look at all of them.
 
 If you discover any mistake, or inaccuracy, please reach out, or open an issue.
 
