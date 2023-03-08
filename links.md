@@ -1,6 +1,7 @@
 # Links
 
 * https://impacts.wiki - comprehensive wiki on impact cratering
+* https://www.lpi.usra.edu/exploration/training/resources/impact_cratering/ - LPI impact cratering resources
 
 ## Code and tools
 
