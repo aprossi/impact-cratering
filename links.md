@@ -26,4 +26,5 @@
  
 ## Slidesets
 
+* LPI higher educatiom resources - https://www.lpi.usra.edu/exploration/training/resources/
 * LPI Terrestrial impact cratering slideset (C. Koeberl, V. Sharpton) - https://www.lpi.usra.edu/publications/slidesets/craters/ 
