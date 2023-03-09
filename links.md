@@ -8,6 +8,7 @@
 ### Planetary chronology & related (mapping) utilities
 * Cratersats (and ref. therein) - https://github.com/ggmichael/craterstats
 * Crater size-frequency distribution analysis - https://github.com/astrostu/SizeFrequencyDistributions
+* https://github.com/CraterAnalysis
 * https://craterpy.readthedocs.io/en/latest/
 
 ### Numerical modeling
