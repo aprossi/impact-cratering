@@ -7,6 +7,7 @@
 
 ### Planetary chronology & related (mapping) utilities
 * Cratersats (and ref. therein) - https://github.com/ggmichael/craterstats
+  * see also https://gist.github.com/thareUSGS/303c5420a4f18e924215db615865d098 (as well as in [notebooks](../notebooks)
 * Crater size-frequency distribution analysis - https://github.com/astrostu/SizeFrequencyDistributions
 * https://github.com/CraterAnalysis
 * https://craterpy.readthedocs.io/en/latest/
