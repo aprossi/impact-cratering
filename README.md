@@ -38,7 +38,7 @@ see [exemplary-craters](./exemplary-craters.md)
 ## Resources
 
 * Links and documentations - [inks](links.md) 
-* Referenecs - [references](references.md)
+* References - [references](references.md)
 
 * https://impacts.wiki (and ref. therein)
 
