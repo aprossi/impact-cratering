@@ -8,6 +8,19 @@
 
 ## Planetary crater Databases
 
+Craters for selected planetary bodies provided here in geojson format derive from the USGS/IAU Gazetteer - https://planetarynames.wr.usgs.gov:
+
+* [callisto_craters.geojson](callisto_craters.geojson) 
+* [ceres_craters.geojson](ceres_craters.geojson)             
+* [earth_schmieder_kring_2020.geojson](earth_schmieder_kring_2020.geojson)
+* [europa_craters.geojson](europa_craters.geojson)
+* [ganymede_craters.geojson](ganymede_craters.geojson)                    
+* [mercury_craters.geojson](mercury_craters.geojson)
+* [moon_craters.geojson](moon_craters.geojson)
+* [mars_craters.geojson](mars_craters.geojson)
+* [titan_craters.geojson](titan_craters.geojson)
+* [venus_craters.geojson](venus_craters.geojson)
+
 ### Data-analysis-ready data / basemaps
 
 * USGS Astropedia - https://astrogeology.usgs.gov/astropedia
