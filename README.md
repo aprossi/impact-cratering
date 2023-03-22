@@ -27,10 +27,13 @@ For planetary crater surface geology please refer to:
 * [Crater databases](./notebooks/crater_databases.ipynb)
 * [Cratering chronology](./notebooks/cratering_chronology.ipynb)
 
-
 ## Data used (or available)
 
 see [data](./data/README.md)
+
+## (Very) Few exemplary/notable planetary craters
+
+see [exemplary-craters](./exemplary-craters.md)
 
 ## Resources
 
