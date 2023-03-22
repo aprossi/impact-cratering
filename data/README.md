@@ -8,7 +8,7 @@
 
 ## Planetary crater Databases
 
-Craters for selected planetary bodies provided here in geojson format derive from the USGS/IAU Gazetteer - https://planetarynames.wr.usgs.gov:
+Craters for selected planetary bodies provided here in geojson format derive from the USGS/IAU Gazetteer (https://planetarynames.wr.usgs.gov). They are **not** exhaustive databases. They are just a subset of crater, that happen to have a name.
 
 * [callisto_craters.geojson](callisto_craters.geojson) 
 * [ceres_craters.geojson](ceres_craters.geojson)             
