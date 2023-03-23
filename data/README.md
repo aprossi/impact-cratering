@@ -35,6 +35,8 @@ e.g.
 * USGS Robbins Mars crater database - https://astrogeology.usgs.gov/search/map/Mars/Research/Craters/RobbinsCraterDatabase_20120821
 * Lagain Mars crater database - https://github.com/alagain/martian_crater_database
 
+See also references in each notebook on [notebooks](../notebooks/README.md)
+
 ## Exemplary craters
 
 * See [exemplary-craters](exemplary-craters.md)
