@@ -4,7 +4,7 @@ Listed below some arbitrarily (or less) nobable craters per Solar System body.
 
 Some are mentioned during the talks. You can search by name and zoom to them on the provided maps on the links below, in order to look at their morphology at your pace.
 
-They are very barebone web maps. Please note the craters are a **subset**, deriving from the IAU/USGS Gazetteer. See [notebooks](./data/notebooks/README.md) for details on other, more complete, planetary crater databases. 
+They are very barebone web maps. Please note the craters are a **subset**, deriving from the IAU/USGS Gazetteer. See [notebooks](./notebooks/README.md) for details on other, more complete, planetary crater databases. 
 
 ## Maps
 
