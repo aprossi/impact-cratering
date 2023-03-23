@@ -29,7 +29,7 @@ For planetary crater surface geology please refer to:
 
 * [Planetary craters](./notebooks/planetary_craters.ipynb)
 * [Crater databases](./notebooks/crater_databases.ipynb)
-* [Crater chronology](./notebooks/crater_chronology.ipynb)
+* [Crater chronology](./notebooks/crater_chronology.ipynb) - yes, it does not render on GH somehow... 
 * [Crater morphometry](./notebooks/crater_morphometry.ipynb)
 
 
