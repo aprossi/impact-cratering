@@ -1,6 +1,6 @@
 # References
 
-This reference list is **not** exhaustive. It contains as much as possible OA (review) papers. The emphasis is on comparative processes, and most sources quoted in the talks.
+This reference list is **not** exhaustive (and it might change through time). It contains as much as possible OA (review) papers. The emphasis is on comparative processes, and most sources quoted in the talks.
 
 ## General impact cratering references
 
