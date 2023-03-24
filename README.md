@@ -48,3 +48,10 @@ see [exemplary-craters](./exemplary-craters.md)
 
 * https://impacts.wiki (and ref. therein)
 
+# Acknowledgements:
+
+- [Matt Brealey](https://github.com/badgrenola) & [AreoBrowser](https://areobrowser.com/#/)
+- [OpenPlanetaryMap](https://www.openplanetary.org/opm/basemaps)
+- [Revealjs](https://revealjs.com)
+- [Leaflet](https://leafletjs.com)
+
