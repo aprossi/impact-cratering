@@ -2,7 +2,7 @@
 
 Materials put together to support and complement the talk bits at the Europlanet workshop "Rocks from Space and Planetary Defence" - https://eventi.unibo.it/epn24-moroccoworkshop/
 
-presentation materials avaialble at:
+presentation materials available at:
 
 https://aprossi.eu/content/impact-cratering/
 
