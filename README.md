@@ -55,6 +55,7 @@ see [exemplary-craters](./exemplary-craters.md)
 - [Revealjs](https://revealjs.com)
 - [Leaflet](https://leafletjs.com)
 - [QGIS](https://www.qgis.org/en/site/)
+- [Copernicus/Sentinel](https://scihub.copernicus.eu)
 - [Qgis2threejs](https://plugins.qgis.org/plugins/Qgis2threejs/)
 - [USGS Astrogeology](https://www.usgs.gov/centers/astrogeology-science-center)
 - et al.
