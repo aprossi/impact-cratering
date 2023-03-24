@@ -54,4 +54,8 @@ see [exemplary-craters](./exemplary-craters.md)
 - [OpenPlanetaryMap](https://www.openplanetary.org/opm/basemaps)
 - [Revealjs](https://revealjs.com)
 - [Leaflet](https://leafletjs.com)
+- [QGIS](https://www.qgis.org/en/site/)
+- [Qgis2threejs](https://plugins.qgis.org/plugins/Qgis2threejs/)
+- [USGS Astrogeology](https://www.usgs.gov/centers/astrogeology-science-center)
+- et al.
 
