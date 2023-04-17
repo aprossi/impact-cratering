@@ -8,6 +8,9 @@
 ### Planetary chronology & related (mapping) utilities
 * Cratersats (and ref. therein) - https://github.com/ggmichael/craterstats
   * see also https://gist.github.com/thareUSGS/303c5420a4f18e924215db615865d098 (as well as in [notebooks](https://github.com/aprossi/impact-cratering/tree/main/notebooks)
+* CSFD Tools - https://github.com/ch-riedel/CSFD_Tools
+* OpenCraterTool (QGIS adaptation of CraterTools / see CircleCraters) - https://doi.org/10.1016/j.pss.2023.105687
+  * https://uni-muenster.sciebo.de/s/jaQO8nKJylR7ycg
 * Crater size-frequency distribution analysis - https://github.com/astrostu/SizeFrequencyDistributions
 * https://github.com/CraterAnalysis
 * https://craterpy.readthedocs.io/en/latest/
